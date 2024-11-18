@@ -1,8 +1,13 @@
-# Birthday-Animation
-Birthday Wishes
+- 👋 Hi, I’m @anggian-s
+- 👀 I’m interested in competitive programming
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate for anything
+- 📫 How to reach me at my instagram account
+- 😄 Pronouns: English, Indonesia, and Deutch
+- ⚡ Fun fact: I'm single.
 
-Gratitude is the expression of appreciation and thankfulness towards someone or something. It is a way of acknowledging kindness, support, or blessings received. Sharing gratitude strengthens relationships and fosters a positive atmosphere in both personal and professional settings.
+<!---
+anggian-s/anggian-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-Birthday Wishes Program
-
-This program automates the process of sending birthday wishes to individuals. It allows users to input names and birthdates and generates personalized messages on their special day. The program ensures that no birthday is missed and can include customized templates to make the wishes more meaningful. Whether for personal use or corporate settings, this program is a thoughtful way to express care and build connections.
